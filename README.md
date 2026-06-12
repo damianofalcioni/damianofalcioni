@@ -1,4 +1,4 @@
-# Hi, I'm [Damiano Falcioni](https://damianofalcioni.github.io) 👋
+# Hi, I'm [Damiano](https://damianofalcioni.github.io) 👋
 
 Until AI takes over, here you’ll find amazing stuff built with ❤️
 
