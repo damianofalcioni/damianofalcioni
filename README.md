@@ -4,6 +4,8 @@ Until AI takes over, here you’ll find amazing stuff built with ❤️
 
 ## ⭐ My projects
 
+* 🧭 [ViBRo Navigator](https://github.com/damianofalcioni/ViBRo-Navigator) [![Stars](https://img.shields.io/github/stars/damianofalcioni/ViBRo-Navigator.svg)](https://github.com/damianofalcioni/ViBRo-Navigator) - **Android GPS Navigation** - Lightweight, battery-efficient, and offline-first GPS navigator built around BRouter, with vibration-based turn guidance and minimal on-screen and voice instructions (and yes, entirely vibe-coded).
+
 * 🌉 [Browser-LLM-Bridge](https://github.com/damianofalcioni/browser-llm-bridge) [![Stars](https://img.shields.io/github/stars/damianofalcioni/browser-llm-bridge.svg)](https://github.com/damianofalcioni/browser-llm-bridge) - **AI** - PoC OpenAI-compatible local REST bridge for routing coding-agent model requests through a browser-hosted LLM session (aka chatgpt.com and cloude.ai as reasoning LLM for your Pi/Codex/... Agent 🤫).
 
 * 🤖 [Pi for Word](https://github.com/damianofalcioni/pi-for-word) [![Stars](https://img.shields.io/github/stars/damianofalcioni/pi-for-word.svg)](https://github.com/damianofalcioni/pi-for-word) - **AI** - Pi Agent as add-in for M365 Office Word.
