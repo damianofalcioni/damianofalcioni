@@ -4,13 +4,13 @@ Until AI takes over, here you’ll find amazing stuff built with ❤️
 
 ## ⭐ My projects
 
-* 🎙️ [Aho! GPT](https://github.com/damianofalcioni/aho-gpt) [![Stars](https://img.shields.io/github/stars/damianofalcioni/aho-gpt.svg)](https://github.com/damianofalcioni/aho-gpt) - **Android AI Assistant** - Lightweight OpenAI-powered voice assistant for Android phones, tablets, TV, and Wear OS, enabling natural voice conversations, app actions, and device control.
+* 🎙️ [Aho! GPT](https://github.com/damianofalcioni/aho-gpt) [![Stars](https://img.shields.io/github/stars/damianofalcioni/aho-gpt.svg)](https://github.com/damianofalcioni/aho-gpt) - **AI Assistant** - Lightweight OpenAI-powered voice assistant for Android phones, tablets, TV, and Wear OS, enabling natural voice conversations, app actions, and device control.
 
-* 🧭 [ViBRo Navigator](https://github.com/damianofalcioni/ViBRo-Navigator) [![Stars](https://img.shields.io/github/stars/damianofalcioni/ViBRo-Navigator.svg)](https://github.com/damianofalcioni/ViBRo-Navigator) - **Android GPS Navigation** - Lightweight, battery-efficient, and offline-first GPS navigator built around BRouter, with vibration-based turn guidance and minimal on-screen and voice instructions (and yes, entirely vibe-coded).
+* 🧭 [ViBRo Navigator](https://github.com/damianofalcioni/ViBRo-Navigator) [![Stars](https://img.shields.io/github/stars/damianofalcioni/ViBRo-Navigator.svg)](https://github.com/damianofalcioni/ViBRo-Navigator) - **Android GPS Navigation** - Lightweight, battery-efficient, and offline-first GPS navigator built around BRouter, with vibration-based turn guidance and minimal on-screen and voice instructions.
 
 * 🌉 [Browser-LLM-Bridge](https://github.com/damianofalcioni/browser-llm-bridge) [![Stars](https://img.shields.io/github/stars/damianofalcioni/browser-llm-bridge.svg)](https://github.com/damianofalcioni/browser-llm-bridge) - **AI** - PoC OpenAI-compatible local REST bridge for routing coding-agent model requests through a browser-hosted LLM session (aka chatgpt.com and cloude.ai as reasoning LLM for your Pi/Codex/... Agent 🤫).
 
-* 🤖 [Pi for Word](https://github.com/damianofalcioni/pi-for-word) [![Stars](https://img.shields.io/github/stars/damianofalcioni/pi-for-word.svg)](https://github.com/damianofalcioni/pi-for-word) - **AI** - Pi Agent as add-in for M365 Office Word.
+* 🤖 [Pi for Word](https://github.com/damianofalcioni/pi-for-word) [![Stars](https://img.shields.io/github/stars/damianofalcioni/pi-for-word.svg)](https://github.com/damianofalcioni/pi-for-word) - **AI Assistant** - Pi Agent as add-in for M365 Office Word.
 
 * ⚙️ [JS-Functions-Orchestrator](https://github.com/damianofalcioni/js-functions-orchestrator) [![Stars](https://img.shields.io/github/stars/damianofalcioni/js-functions-orchestrator.svg)](https://github.com/damianofalcioni/js-functions-orchestrator) - **Workflow Automation** - Isomorphic, fast, light, secure, and extensible Orchestrator for JavaScript/TypeScript functions and events, based on JSONata.
 
