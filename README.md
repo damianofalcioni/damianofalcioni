@@ -10,8 +10,10 @@ Until AI takes over, here you’ll find amazing stuff built with ❤️
 
 * 🌉 [Browser-LLM-Bridge](https://github.com/damianofalcioni/browser-llm-bridge) [![Stars](https://img.shields.io/github/stars/damianofalcioni/browser-llm-bridge.svg)](https://github.com/damianofalcioni/browser-llm-bridge) - **AI** - PoC OpenAI-compatible local REST bridge for routing coding-agent model requests through a browser-hosted LLM session (aka chatgpt.com and cloude.ai as reasoning LLM for your Pi/Codex/... Agent 🤫).
 
-* 🤖 [Pi for Word](https://github.com/damianofalcioni/pi-for-word) [![Stars](https://img.shields.io/github/stars/damianofalcioni/pi-for-word.svg)](https://github.com/damianofalcioni/pi-for-word) - **AI Assistant** - Pi Agent as add-in for M365 Office Word.
+* 💬 [Pi MS Teams Extension](https://github.com/damianofalcioni/pi-msteams-extension) [![Stars](https://img.shields.io/github/stars/damianofalcioni/pi-msteams-extension.svg)](https://github.com/damianofalcioni/pi-msteams-extension) - **AI** - Microsoft Teams integration for Pi Agent, supporting in-session extension mode and standalone RPC gateway mode, based on OpenClaw's Teams channel.
 
+* 🤖 [Pi for Word](https://github.com/damianofalcioni/pi-for-word) [![Stars](https://img.shields.io/github/stars/damianofalcioni/pi-for-word.svg)](https://github.com/damianofalcioni/pi-for-word) - **AI Assistant** - Pi Agent as add-in for M365 Office Word.
+  
 * ⚙️ [JS-Functions-Orchestrator](https://github.com/damianofalcioni/js-functions-orchestrator) [![Stars](https://img.shields.io/github/stars/damianofalcioni/js-functions-orchestrator.svg)](https://github.com/damianofalcioni/js-functions-orchestrator) - **Workflow Automation** - Isomorphic, fast, light, secure, and extensible Orchestrator for JavaScript/TypeScript functions and events, based on JSONata.
 
 * 🏠 [DamianoFalcioni.github.io](https://github.com/damianofalcioni/damianofalcioni.github.io) [![Stars](https://img.shields.io/github/stars/damianofalcioni/damianofalcioni.github.io.svg)](https://github.com/damianofalcioni/damianofalcioni.github.io) - **Website** - My personal homepage at [http://damianofalcioni.github.io](http://damianofalcioni.github.io/).
